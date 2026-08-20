@@ -1,0 +1,9 @@
+{
+  "nome_projeto": "Office Crowd Shooter",
+  "stack_sugerida": "Python (Kivy/Flet) + Flask API",
+  "regras_gameplay": {
+    "multiplicador_clone": 1,
+    "buff_inimigo_por_clone": 0.5,
+    "estilo_grafico": "2D Top-down / Pixel Art ou Low Poly"
+  }
+}
